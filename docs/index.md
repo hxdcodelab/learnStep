@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "learnStep"
-  text: "To record steps in learning"
+  text: "To record steps in learning "
   tagline: My great project tagline
   actions:
     - theme: brand
