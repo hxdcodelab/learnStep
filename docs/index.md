@@ -3,23 +3,28 @@
 layout: home
 
 hero:
-  name: "learnStep"
-  text: "To record steps in learning "
-  tagline: My great project tagline
+  name: learnStep
+  text: To record steps in learning
+  tagline: 不积跬步,无以至千里
+  image: 
+    src: /icon.svg
+    alt: 网站的图片
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速进入
+      link: learn/JS
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚡️
+    title: 学习
+    details: 学海无涯...
+  - icon: 🖖
+    title: 实践
+    details: 实践出真知...
+  - icon: 🛠️
+    title: 分享
+    details: 乐于分享...
 ---
-
